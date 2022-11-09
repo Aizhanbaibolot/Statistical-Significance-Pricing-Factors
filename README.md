@@ -21,12 +21,14 @@ The purpose of this  project was to clean and analyze raw housing data, identifi
  
 ## Analysis of Hypothesis 1
 <img width="362" alt="image" src="https://user-images.githubusercontent.com/98500457/200953200-168b7068-19a8-4d32-86a9-26f2621ef0a2.png">
+ 
 * There is a statistically significant difference between the prices of the houses with and without fireplace 
 * Average house price with fireplace $216 400, whereas without fireplace $141 000 
 * Average difference $75 400
 
 ## Analysis of Hypothesis 2  
  <img width="362" alt="image" src="https://user-images.githubusercontent.com/98500457/200953351-aa05422c-b680-49a3-ad12-ccb6cca89457.png">
+ 
 * There is a statistically difference between the prices of the houses with 1 or 0 garage car versus more than 2 garage cars
 * Average house price with more than 2 garage cars $206 500 whereas less than 2 garage cars $123 700
 * Average difference $82 800
@@ -34,7 +36,7 @@ The purpose of this  project was to clean and analyze raw housing data, identifi
 
 ## Recommendations
 
-The statistical analyses showed that
+The statistical analysis showed that
   * The price of the houses with fireplace is more than the ones without.
   * The price of the houses with more than 2 garage cars is more than the houses with 1 or 0 garage car.
 Consider the options of extending garage cars and adding fireplaces.
