@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/98500457/200945913-0018aac2-ce89-44a3-ab49-bf837b1d4930.png)
 
-# **Statistical Significance - Pricing Factors **
+# **Statistical Significance - Pricing Factors**
 ### Project Overview <p>
 The purpose of this  project was to minimize cost and maximize revenue of the Lariat Rent-A-Car Company for the upcoming year by using present year's (2018) data as a baseline and building different strategies to reach the goal. 
 ## Business objective
