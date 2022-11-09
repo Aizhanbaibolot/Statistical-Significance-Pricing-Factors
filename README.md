@@ -10,8 +10,8 @@ The purpose of this  project was to clean and analyze raw housing data, identifi
 * Recommendations based on analysis
   
 ## Hypotheses
-  * Hypothesis 1: Does the houses with a fireplace cost more than the ones without.
-  * Hypothesis 2: Does the houses with 2 garage cars cost more than the ones with 1 or 0 garage car.
+  * Hypothesis 1: Do the houses with a fireplace cost more than the ones without?
+  * Hypothesis 2: Do the houses with 2 garage cars cost more than the ones with 1 or 0 garage car?
 
 ## Data Analyzed
   * Total 1460 houses.
