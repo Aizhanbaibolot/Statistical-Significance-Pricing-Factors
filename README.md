@@ -46,17 +46,15 @@ Based on the analysis above I would recommend first and second strategies which 
 to increase car rental price, and which will make difference in net revenue of $6.6M and $10M consequentially.
  
 ## Result
-*	Examined and cleaned historical sales data using Excel (VLookUp, pivot tables and t-tests).
-*	Consolidated raw data, completing exploratory data analysis to identify strategic scenarios to increase revenue, assessed by KPI performance.
-*	Presented models that showcased a 20% increase in profits, while lowering operational costs.
+*	Developed dashboard to assist shareholders within an investment bank in determining factors that drive housing prices and how they should allocate dollars earmarked for investment into mortgage-backed securities. 
+*	Dashboard data was supported through t-tests run on housing price factors showing statistical significance.
 *	Tech: Microsoft Excel, Microsoft PowerPoint
 
 
 
+
+
 ### More Information
-See the full analysis in the [Excel file](https://1drv.ms/x/s!Aq0hO2ADWvnDgRgk7AValxXS06hH) or review this [presentation](https://github.com/Aizhanbaibolot/Car_Rental/blob/main/Case%20study_Lariat.pdf).
+See the full analysis in the [Excel file](https://1drv.ms/x/s!Aq0hO2ADWvnDgT6t5JCJeDJW9LD4) or review this [presentation](https://github.com/Aizhanbaibolot/Statistical-Significance-Pricing-Factors/blob/main/capstone2_house_prices.pdf).
 
 For additional info, contact Aizhan Baibolot at []()aizhanbaibolot0@gmail.com
-
-# House-Prices
-https://1drv.ms/x/s!Aq0hO2ADWvnDgT6t5JCJeDJW9LD4
