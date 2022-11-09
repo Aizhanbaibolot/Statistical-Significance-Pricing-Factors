@@ -2,48 +2,44 @@
 
 # **Statistical Significance - Pricing Factors**
 ### Project Overview <p>
-The purpose of this  project was to minimize cost and maximize revenue of the Lariat Rent-A-Car Company for the upcoming year by using present year's (2018) data as a baseline and building different strategies to reach the goal. 
+The purpose of this  project was to clean and analyze raw housing data, identifiy the factors affecting home prices using multiple statistical tests(A/B testing), pivot tables in Excel, and make recommendations based on the analysis. I analyzed 2 factors:
+  * houses with fireplace vs without
+  * houses with more than 2 garage cars vs with 1 or 0 garage car 
 ## Business objective
-* Maximize Revenue and Minimize Costs
-* Recommend Strategies to Reach the Compny's Goal
+* Analyze factors affecting home prices
+* Recommendations based on analysis
   
-## Base Assumptions 
-<img width="280" alt="Screen Shot 2022-11-09 at 12 47 35 PM" src="https://user-images.githubusercontent.com/98500457/200938614-dcd4e9ba-c9e6-4c30-9459-8d3784ba9757.png">
-  
-## Strategy 1
- <img width="418" alt="image" src="https://user-images.githubusercontent.com/98500457/200939718-4898ba87-f9e7-4612-a5a7-e21c7c463718.png">
+## Hypotheses
+  * Hypothesis 1: Does the houses with a fireplace cost more than the ones without.
+  * Hypothesis 2: Does the houses with 2 garage cars cost more than the ones with 1 or 0 garage car.
 
-<img width="418" alt="image" src="https://user-images.githubusercontent.com/98500457/200940542-5bf4010e-aa3a-4dcf-85f7-e48f71f10e14.png">
+## Data Analyzed
+  * Total 1460 houses.
+  * 690 houses without fireplace while 770 with fireplace
+  * 450 houses with 1 or 0 garage car while 1010 with more than 2 garage cars.
+  * Conducted statistical analyses(t-test) to see if there is any statistically significant difference between them.
+ 
+## Analysis of Hypothesis 1
+<img width="362" alt="image" src="https://user-images.githubusercontent.com/98500457/200953200-168b7068-19a8-4d32-86a9-26f2621ef0a2.png">
+* There is a statistically significant difference between the prices of the houses with and without fireplace 
+* Average house price with fireplace $216 400, whereas without fireplace $141 000 
+* Average difference $75 400
+
+## Analysis of Hypothesis 2  
+ <img width="362" alt="image" src="https://user-images.githubusercontent.com/98500457/200953351-aa05422c-b680-49a3-ad12-ccb6cca89457.png">
+* There is a statistically difference between the prices of the houses with 1 or 0 garage car versus more than 2 garage cars
+* Average house price with more than 2 garage cars $206 500 whereas less than 2 garage cars $123 700
+* Average difference $82 800
 
 
-  
-* Assume 4300 cars instead of 4000, exclude cars model year 2016, purchase more cars model year 2019
-* Increase In Net Revenue Of $6.6M
-  
-### These are the Top 10 and Bottom 10 Cars recommended: 
-  
-<img width="590" alt="image" src="https://user-images.githubusercontent.com/98500457/200940124-10432aea-56f1-43b7-9cc8-2a7cbf4f5e60.png">
-
-<img width="593" alt="image" src="https://user-images.githubusercontent.com/98500457/200940894-38105f7a-404d-4725-8097-cc895e880c72.png">
-
-## Strategy 2
-<img width="417" alt="image" src="https://user-images.githubusercontent.com/98500457/200941744-3a15a80e-b0c8-44e9-acea-d8e34c9d7cbf.png">
-
-* Increase cost of the car rentals by 15%
-* Costs remain same, gross revenue $60M, net revenue $26.5M, which makes difference of $8M.
-  
-## Strategy 3
-<img width="418" alt="image" src="https://user-images.githubusercontent.com/98500457/200941966-1bb7699d-7f9f-40a6-84c7-353012ffb1b4.png">
-
-* Assume decrease in car cost by 8% and insurance cost by 5%
-* Gross revenue remains same, costs $30.5M, net revenue $22M, increase in net revenue  of $2.5M
-  
-  
 ## Recommendations
-<img width="416" alt="image" src="https://user-images.githubusercontent.com/98500457/200942989-17192a86-ca58-4407-b341-0430ea882e21.png">
 
-Based on the analysis above I would recommend first and second strategies which are to increase number of cars and/or 
-to increase car rental price, and which will make difference in net revenue of $6.6M and $10M consequentially.
+The statistical analyses showed that
+  * The price of the houses with fireplace is more than the ones without.
+  * The price of the houses with more than 2 garage cars is more than the houses with 1 or 0 garage car.
+Consider the options of extending garage cars and adding fireplaces.
+
+
  
 ## Result
 *	Developed dashboard to assist shareholders within an investment bank in determining factors that drive housing prices and how they should allocate dollars earmarked for investment into mortgage-backed securities. 
