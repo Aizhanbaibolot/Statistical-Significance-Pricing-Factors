@@ -17,7 +17,7 @@ The purpose of this  project was to clean and analyze raw housing data, identifi
   * Total 1460 houses.
   * 690 houses without fireplace while 770 with fireplace
   * 450 houses with 1 or 0 garage car while 1010 with more than 2 garage cars.
-  * Conducted statistical analyses(t-test) to see if there is any statistically significant difference between them.
+  * Conducted statistical analysis(t-test) to see if there is any statistically significant difference between them.
  
 ## Analysis of Hypothesis 1
 <img width="362" alt="image" src="https://user-images.githubusercontent.com/98500457/200953200-168b7068-19a8-4d32-86a9-26f2621ef0a2.png">
